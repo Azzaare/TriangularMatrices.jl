@@ -3,6 +3,9 @@ uuid = "c1b978d4-7f77-4b0f-b75a-d16d5727af9b"
 authors = ["azzaare (jean-François BAFFIER)"]
 version = "0.1.0"
 
+[deps]
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+
 [compat]
 julia = "1.8"
 
